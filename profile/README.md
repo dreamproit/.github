@@ -1,6 +1,6 @@
 # Welcome to DreamProIT! 👋
 
-We are an amazing 🇺🇦 team of developers! 
+We are an amazing team of 🇺🇦 developers! 
 
 Here's a bunch of links that you may find helpful to find out who we are and what we do:
 - [Our website](https://dreamproit.com/)
